@@ -181,7 +181,7 @@ const page = () => {
 
   return (
     <div className="h-screen w-full flex">
-      <div>
+      <div className="w-64 hidden lg:block">
         <Sidebar type="big" />
       </div>
       <div className="flex-1">

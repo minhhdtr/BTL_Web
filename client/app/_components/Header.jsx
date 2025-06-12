@@ -116,7 +116,7 @@ const Header = () => {
           <div className="flex gap-2 items-center">
             <DropdownMenu>
               <DropdownMenuTrigger>
-                <Avatar className={"w-[4rem] h-[4rem]"}>
+                <Avatar className={"w-[3.5rem] h-[3.5rem]"}>
                   <AvatarImage
                     src="https://github.com/shadcn.png"
                     alt="@shadcn"

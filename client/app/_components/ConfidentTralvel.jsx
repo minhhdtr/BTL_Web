@@ -21,7 +21,7 @@ px-4 sm:px-6 md:px-10 lg:px-16 xl:px-20 pt-[2rem] gap-[4rem] pb-[3rem] z-0"
       <div className="flex flex-col items-center text-center">
         <p className="font-medium text-2xl tracking-wide">TRAVEL SUPPORT</p>
         <h1 className="font-[400] text-5xl leading-[4rem]">
-          Plan Your tralve with confidence
+          Plan your travel with confidence
         </h1>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ratione
